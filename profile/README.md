@@ -77,7 +77,7 @@
 - 💬 Discord 社群：[加入我們](https://discord.gg/rMWskbDN6m)
 - 📦 Modrinth：[crossing-dead-development](https://modrinth.com/organization/crossing-dead-development)
 - 🎨 DeviantArt：[evansgoethe](https://www.deviantart.com/evansgoethe)
-- 📮 聯絡信箱：richardgoethe1122@gmail.com
+- 📮 聯絡信箱：qqkitty2003@gmail.com
 
 ---
 

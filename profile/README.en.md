@@ -80,7 +80,7 @@ Bringing Limbus Company's E.G.O weapons and gifts into Minecraft 1.21.4.
 - 💬 Discord community: [Join us](https://discord.gg/rMWskbDN6m)
 - 📦 Modrinth: [crossing-dead-development](https://modrinth.com/organization/crossing-dead-development)
 - 🎨 DeviantArt: [evansgoethe](https://www.deviantart.com/evansgoethe)
-- 📮 Email: richardgoethe1122@gmail.com
+- 📮 Email: qqkitty2003@gmail.com
 
 ---
 
