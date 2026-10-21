@@ -65,7 +65,7 @@
 | 專案 | 說明 | 技術 |
 | --- | --- | --- |
 | [Aurora's BnS Material Tracker](https://github.com/Crossing-Dead-Development/Aurora-s-Bns-Material-Tracker) | 劍靈台服玩家用的桌面工具，追蹤副本進度、管理材料倉庫與規劃升級路線 | C# / WPF |
-| [Character Prompt Generator（角色設計題目產生器）](https://github.com/Crossing-Dead-Development/CharacterPromptGenerator) | 繪圖直播用的離線角色設計抽題工具：單一 EXE、介面支援繁中／英文；詞庫（繁中／英文 CSV）另行下載匯入，可鎖定、局部重抽、自訂方案，並支援 JSON／CSV／TXT 匯入 | C# / WPF |
+| [Character Prompt Generator](https://github.com/Crossing-Dead-Development/CharacterPromptGenerator) | 繪圖直播用的離線角色設計抽題工具：單一 EXE、介面支援繁中／英文；詞庫（繁中／英文 CSV）另行下載匯入，可鎖定、局部重抽、自訂方案，並支援 JSON／CSV／TXT 匯入 | C# / WPF |
 
 ### 🤖 Discord 機器人
 
