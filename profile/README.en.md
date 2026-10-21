@@ -65,7 +65,7 @@ Bringing Limbus Company's E.G.O weapons and gifts into Minecraft 1.21.4.
 | Project | Description | Tech |
 | --- | --- | --- |
 | [Aurora's BnS Material Tracker](https://github.com/Crossing-Dead-Development/Aurora-s-Bns-Material-Tracker) | Desktop tool for the Blade & Soul TW server: track daily / weekly dungeon runs, manage your material stash and plan upgrade paths | C# / WPF |
-| [Character Prompt Generator](https://github.com/Crossing-Dead-Development/CharacterPromptGenerator) | Offline character-design prompt roller for drawing streams: built-in 21-category / 2,111-entry word bank with emoji, lock & partial re-roll, custom presets, JSON / CSV / TXT import | C# / WPF |
+| [Character Prompt Generator](https://github.com/Crossing-Dead-Development/CharacterPromptGenerator) | Offline character-design prompt roller for drawing streams: single EXE with an English / Traditional Chinese UI; word banks (EN / TW CSV) are downloaded and imported separately. Lock & partial re-roll, custom presets, JSON / CSV / TXT import | C# / WPF |
 
 ### 🤖 Discord Bots
 
