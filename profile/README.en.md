@@ -29,7 +29,7 @@ CDD is currently a one-person studio run by me, **EvansGoethe**. This organizati
 - **Discord Bot Development**
   - Community tools & bots
 - **Desktop Tools**
-  - Utilities for the games we play
+  - Utilities for the games we play and for art streams
 
 ## 🚀 Roadmap
 
@@ -65,6 +65,7 @@ Bringing Limbus Company's E.G.O weapons and gifts into Minecraft 1.21.4.
 | Project | Description | Tech |
 | --- | --- | --- |
 | [Aurora's BnS Material Tracker](https://github.com/Crossing-Dead-Development/Aurora-s-Bns-Material-Tracker) | Desktop tool for the Blade & Soul TW server: track daily / weekly dungeon runs, manage your material stash and plan upgrade paths | C# / WPF |
+| [Character Prompt Generator](https://github.com/Crossing-Dead-Development/CharacterPromptGenerator) | Offline character-design prompt roller for drawing streams: built-in 21-category / 2,111-entry word bank with emoji, lock & partial re-roll, custom presets, JSON / CSV / TXT import | C# / WPF |
 
 ### 🤖 Discord Bots
 
